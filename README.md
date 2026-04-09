@@ -87,8 +87,6 @@ I build things at the intersection of **Machine Learning**, **Data Science**, an
 
 ## 📊 GitHub Stats & Activity
 
-> *Note: To render the GitHub stats and snake animation properly, ensure your repository name matches your username (e.g., `Coffin-19/Coffin-19`). For the snake animation, set up the [Platane/snk](https://github.com/Platane/snk) GitHub action in your `.github/workflows` directory.*
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Coffin-19&show_icons=true&theme=tokyonight&hide_border=true&v=1" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coffin-19&layout=compact&theme=tokyonight&hide_border=true&v=1" width="48%" />

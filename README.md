@@ -85,15 +85,6 @@ I build things at the intersection of **Machine Learning**, **Data Science**, an
 
 ---
 
-## 📊 GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Coffin-19&show_icons=true&theme=tokyonight&hide_border=true&v=2" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coffin-19&layout=compact&theme=tokyonight&hide_border=true&v=2" width="48%" />
-</p>
-
-<br/>
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Coffin-19/Coffin-19/output/github-contribution-grid-snake-dark.svg">
